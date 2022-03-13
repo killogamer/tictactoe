@@ -1,0 +1,12 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "main": "game.js",
+  "repository": "git@github.com:killogamer/tictactoe.git",
+  "author": "killogamer <benito.spet@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
+}
